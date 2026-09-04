@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/index/
+data/reservations.db
+.pytest_cache/

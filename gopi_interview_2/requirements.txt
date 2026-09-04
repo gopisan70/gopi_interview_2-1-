@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+anthropic>=1.0
+pypdf>=4.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy
+fastapi
+uvicorn
+python-dotenv
+requests
+pytest

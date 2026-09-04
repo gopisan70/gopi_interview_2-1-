@@ -1,0 +1,7 @@
+# Copy to .env and fill in what you need. Anthropic is used when a key is present, otherwise Ollama.
+ANTHROPIC_API_KEY=
+
+LLM_PROVIDER=ollama
+OLLAMA_URL=http://localhost:11434
+OLLAMA_MODEL=qwen2.5:7b
+EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
